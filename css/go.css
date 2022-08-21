@@ -1,0 +1,23 @@
+h2{
+    color:#005677;
+    background-color: #c4c4c4;
+    margin: 0;
+
+}
+
+.span{
+    
+    color:#005677;
+    margin: 0;
+}
+a{
+    color: #005677;
+    background-color: #c4c4c4;
+    text-decoration: none;
+    font-size: 19px;
+}
+i{
+    color: red;
+    background-color: #c4c4c4;
+    font-size: 21px;
+}
